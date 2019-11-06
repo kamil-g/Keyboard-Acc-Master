@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Keyboard-Acc-Master/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Keyboard-Acc-Master/static/js/main.48259393.chunk.js",
+    "main.js.map": "/Keyboard-Acc-Master/static/js/main.48259393.chunk.js.map",
+    "runtime-main.js": "/Keyboard-Acc-Master/static/js/runtime-main.b12d5d3d.js",
+    "runtime-main.js.map": "/Keyboard-Acc-Master/static/js/runtime-main.b12d5d3d.js.map",
+    "static/js/2.a8e09c34.chunk.js": "/Keyboard-Acc-Master/static/js/2.a8e09c34.chunk.js",
+    "static/js/2.a8e09c34.chunk.js.map": "/Keyboard-Acc-Master/static/js/2.a8e09c34.chunk.js.map",
+    "index.html": "/Keyboard-Acc-Master/index.html",
+    "precache-manifest.d995b8e9cb8b64740ea71e6986ed9072.js": "/Keyboard-Acc-Master/precache-manifest.d995b8e9cb8b64740ea71e6986ed9072.js",
+    "service-worker.js": "/Keyboard-Acc-Master/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Keyboard-Acc-Master/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Keyboard-Acc-Master/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b12d5d3d.js",
+    "static/js/2.a8e09c34.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.48259393.chunk.js"
+  ]
+}
