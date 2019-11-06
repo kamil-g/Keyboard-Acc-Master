@@ -1,22 +1,47 @@
-.App {
+html, body {
+  background: rgb(20,20,20);
+}
+
+#controlPanel {
+  color: rgb(220,220,220);
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+input {
+  position: absolute;
+  text-align: center;
+  border-radius: 20px;
+  border: none;
+  font-size: 2rem;
+  top: 80vh;
+  left: 40vw;
+  width: 20vw;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#FLW {
+  position: absolute;
+  height: 70vh;
+  width: 80vw;
+  display: block;
+  background: rgb(30,30,30);
+  border: 1px solid rgb(220,220,220);
+  left: 10vw;
+  overflow: hidden;
+  top: 5vh;
 }
 
-.App-link {
-  color: #09d3ac;
+.ltr {
+  position: absolute;
+  font-size: 6vw;
+}
+
+#accuracyCounter {
+  position: absolute;
+  bottom: 7vh;
+  font-size: 1.5rem;
+  color: rgb(150,150,150);
+  display: grid;
+  width: 80vw;
+  left: 10vw;
+  grid-template-columns: repeat(3, auto);
 }
